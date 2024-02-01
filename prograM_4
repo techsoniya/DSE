@@ -234,3 +234,120 @@ def main():
     print(num_correct, "/", 100)
     
 if __name__ == "__main__": main()
+
+
+
+
+
+
+
+
+
+
+
+
+
+**********************************************************************************************************************************
+neural net for xor: 100%|█████████████████████████████████████████████████████| 20000/20000 [00:01<00:00, 16594.21it/s]
+fizz buzz (loss: 29.53): 100%|███████████████████████████████████████████████████████| 500/500 [01:49<00:00,  4.55it/s]
+1 1 1
+2 2 2
+3 fizz fizz
+4 4 4
+5 buzz buzz
+6 fizz fizz
+7 7 7
+8 8 8
+9 fizz fizz
+10 buzz buzz
+11 11 11
+12 fizz fizz
+13 13 13
+14 14 14
+15 fizzbuzz fizzbuzz
+16 16 16
+17 17 17
+18 fizz fizz
+19 19 19
+20 20 buzz
+21 fizz fizz
+22 22 22
+23 23 23
+24 fizz fizz
+25 buzz buzz
+26 26 26
+27 fizz fizz
+28 28 28
+29 29 29
+30 fizzbuzz fizzbuzz
+31 31 31
+32 32 32
+33 fizz fizz
+34 34 34
+35 buzz buzz
+36 fizz fizz
+37 37 37
+38 38 38
+39 fizz fizz
+40 buzz buzz
+41 41 41
+42 fizz fizz
+43 43 43
+44 44 44
+45 fizzbuzz fizzbuzz
+46 46 46
+47 47 47
+48 fizz fizz
+49 49 49
+50 buzz buzz
+51 fizz fizz
+52 52 52
+53 53 53
+54 fizz fizz
+55 buzz buzz
+56 56 56
+57 fizz fizz
+58 58 58
+59 59 59
+60 fizzbuzz fizzbuzz
+61 61 61
+62 62 62
+63 fizz fizz
+64 64 64
+65 buzz buzz
+66 fizz fizz
+67 67 67
+68 68 68
+69 fizz fizz
+70 buzz buzz
+71 71 71
+72 fizz fizz
+73 73 73
+74 74 74
+75 fizzbuzz fizzbuzz
+76 76 76
+77 77 77
+78 fizz fizz
+79 79 79
+80 80 buzz
+81 fizz fizz
+82 82 82
+83 83 83
+84 fizz fizz
+85 fizz buzz
+86 86 86
+87 fizz fizz
+88 88 88
+89 89 89
+90 fizzbuzz fizzbuzz
+91 91 91
+92 92 92
+93 fizz fizz
+94 94 94
+95 fizz buzz
+96 fizz fizz
+97 97 97
+98 98 98
+99 fizz fizz
+100 buzz buzz
+96 / 100
