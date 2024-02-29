@@ -11,14 +11,14 @@ def sigmoid(x):
   return 1 / (1 + np.exp(-x))
 
 def cost_function(X, y, theta):
-  
+  """Calculates the cost function (logistic loss)"""
   m = len(y)
   hypothesis = sigmoid(X.dot(theta))
   cost = -1/m * np.sum(y * np.log(hypothesis) + (1 - y) * np.log(1 - hypothesis))
   return cost
 
 def gradient_descent(X, y, theta, learning_rate, num_iterations):
-  
+  """Performs gradient descent to update model parameters"""
   m = len(y)
   for i in range(num_iterations):
     prediction = sigmoid(X.dot(theta))
@@ -49,7 +49,6 @@ predicted_class = predict(new_data)
 
 # Print prediction
 print("Predicted class:", predicted_class[0])
-
 
 
 
