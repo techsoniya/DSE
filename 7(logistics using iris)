@@ -49,3 +49,14 @@ predicted_class = predict(new_data)
 
 # Print prediction
 print("Predicted class:", predicted_class[0])
+
+
+
+
+
+***********************************************************
+OUTPUT
+
+
+Predicted class: 1
+**********************************************************
